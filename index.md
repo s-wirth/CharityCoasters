@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Sophie's Making Coasters for Charity
 
-You can use the [editor on GitHub](https://github.com/s-wirth/CharityCoasters/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+From housing and health to learning and engagement, Centrepoint aims to help vulnerable young people move on from homelessness and build a future they can believe in.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In order to support this I will be making and selling sets of resin coasters. Every set contains either 4 Geoge Coasters Or 5 Hexagonal Coasters. A variety of colours, styles, glitters and metal leafs are available.
 
-### Markdown
+Every set will cost £45. All proceeds will go to Centrepoint, with the exceptions of the raw material costs.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+How do you order? 
+Just [send me an email](mailto:a.sophiewirth@gmail.com) stating how many sets you want and in what colours! I am happy to discuss all options and answer any questions you may have as well.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s-wirth/CharityCoasters/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
