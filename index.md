@@ -4,8 +4,9 @@ From housing and health to learning and engagement, [Centrepoint](https://centre
 
 In order to support this I will be making and selling sets of resin coasters. Every set contains either 4 Geoge Coasters Or 5 Hexagonal Coasters. A variety of colours, styles, glitters and metal leafs are available.
 
-I am aiming to raise at least £500 by the end of 2021!
 ### Amount Raised: £90 / £500
+I am aiming to raise at least £500 by the end of 2021!
+
 
 Every set will cost £45. All proceeds will go to Centrepoint, with the exceptions of the raw material costs.
 
