@@ -9,6 +9,22 @@ Every set will cost £45. All proceeds will go to Centrepoint, with the exceptio
 How do you order? 
 Just [send me an email](mailto:a.sophiewirth@gmail.com) stating how many sets you want and in what colours! I am happy to discuss all options and answer any questions you may have as well.
 
+## Example Sets
+
+### Hexagon Set - Midnight Blue with Gold Leaf and Sparkle
+
+![Blue Hex Set](https://i.ibb.co/7CqZYwp/blue-hex-set-2.png)
+
+![Blue Hex Set](https://i.ibb.co/qCRLvxS/blue-hex-set-1.png)
+
+### Geode Set - Blood Red with Silver Leaf
+
+![Red Geode Set](https://i.ibb.co/HYbTrTG/red-geode-set-1.png)
+
+![Red Geode Set](https://i.ibb.co/gRqB1xj/red-geode-set-2.png)
+
+## Assorted Coaster Examples
+
 ![Image](https://i.ibb.co/kg5FQX2/IMG-1402.png)
 
 ![Image](https://i.ibb.co/NxWKbHY/IMG-1408.png)
